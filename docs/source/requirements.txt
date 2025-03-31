@@ -1,0 +1,5 @@
+requirements_txt = """
+sphinx
+sphinx-rtd-theme
+myst-parser
+"""
