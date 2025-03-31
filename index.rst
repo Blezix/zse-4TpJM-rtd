@@ -29,7 +29,7 @@ Fragment kodu (liniowy, blokowy)
 
 Liniowy fragment kodu:
 
-print("Hello, World!")
+``code``print("Hello, World!")
 
 
 Blokowy fragment kodu:
