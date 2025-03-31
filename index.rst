@@ -3,13 +3,12 @@ Nagłówki tekstowe (poziomy 1-4)
 
 Nagłówek 1 poziomu
 ------------------
-
- Nagłówek 2 poziomu
-~~~~~~~~~~~~~~~~~~~~
+Nagłówek 2 poziomu
+~~~~~~~~~~~~~~~~~~
 Nagłówek 3 poziomu
-^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^
 Nagłówek 4 poziomu
-.....................
+..................
 
 Akapit tekstowy (treść)
 =======================
