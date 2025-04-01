@@ -45,11 +45,8 @@ Lokalny odnośnik w ReadTheDocs:
 
 Zewnętrzny odnośnik:
 
-`website`_
 Listy (numerowana, wypunktowana, definicji)
 =========================================
-.. LINKS
-.. website: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 
 Numerowana lista:
@@ -73,7 +70,7 @@ Termin 2
 Obraz (z alternatywnym tekstem oraz podpisem)
 ==========================================
 
-.. image:: /path/to/image.png
+.. image:: https://placehold.co/600x400
    :alt: Tekst alternatywny dla obrazu
    :figclass: align-center
    :caption: To jest podpis obrazu.
