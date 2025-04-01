@@ -48,40 +48,44 @@ Lokalny odnośnik w ReadTheDocs:
 
 :ref:`naglowki_sekcja` - Link do sekcji "Nagłówki tekstowe"
 
-:ref:`informacyjne_sekcja` - Link do sekcji "Akapit informacyjny"
-
-:ref:`kod_sekcja` - Link do sekcji "Fragment kodu"
 
 Zewnętrzny odnośnik:
+`google <https://www.google.com>`_
 
 Listy (numerowana, wypunktowana, definicji)
 =========================================
 
 Numerowana lista:
 1. Pierwszy element
+
 2. Drugi element
+
 3. Trzeci element
 
 Wypunktowana lista:
 - Item 1
+
 - Item 2
+
 - Item 3
 
 Lista definicji:
 
 Termin 1
+
     Definicja pierwszego terminu.
 
 Termin 2
+
     Definicja drugiego terminu.
 
 Obraz (z alternatywnym tekstem oraz podpisem)
 ==========================================
 
-.. image:: https://placehold.co/600x400
-   :alt: Tekst alternatywny dla obrazu
+.. image:: https://via.placeholder.com/600x400.png?text=Example+Image
+   :alt: Przykładowy obraz
    :figclass: align-center
-   :caption: To jest podpis obrazu.
+   :caption: To jest przykładowy obraz.
 
 Tabela (jeżeli istnieje)
 ========================
