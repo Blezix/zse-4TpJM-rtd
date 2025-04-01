@@ -1,6 +1,8 @@
 Nagłówki tekstowe (poziomy 1-4)
 =============================
 
+.. _naglowki_sekcja:
+
 Nagłówek 1 poziomu
 ------------------
 Nagłówek 2 poziomu
@@ -15,6 +17,8 @@ Akapit tekstowy (treść)
 Akapit informacyjny (Note, Tip)
 ==============================
 
+.. _informacyjne_sekcja:
+
 .. note::
     To jest akapit informacyjny w formie noty.
 
@@ -24,10 +28,11 @@ Akapit informacyjny (Note, Tip)
 Fragment kodu (liniowy, blokowy)
 =============================
 
+.. _kod_sekcja:
+
 Liniowy fragment kodu:
 
-.. code:: print("Hello, World!")
-
+ ``print("Hello, World!")``
 
 Blokowy fragment kodu:
 
@@ -41,13 +46,16 @@ Odnośnik (lokalny RtD, zewnętrzny-inny serwis)
 
 Lokalny odnośnik w ReadTheDocs:
 
-:ref:`a_section_target` `Link do sekcji dokumentacji`
+:ref:`naglowki_sekcja` - Link do sekcji "Nagłówki tekstowe"
+
+:ref:`informacyjne_sekcja` - Link do sekcji "Akapit informacyjny"
+
+:ref:`kod_sekcja` - Link do sekcji "Fragment kodu"
 
 Zewnętrzny odnośnik:
 
 Listy (numerowana, wypunktowana, definicji)
 =========================================
-
 
 Numerowana lista:
 1. Pierwszy element
