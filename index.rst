@@ -11,7 +11,6 @@ Nagłówek 4 poziomu
 ..................
 
 Akapit tekstowy (treść)
-=======================
 
 Akapit informacyjny (Note, Tip)
 ==============================
@@ -27,8 +26,7 @@ Fragment kodu (liniowy, blokowy)
 
 Liniowy fragment kodu:
 
-.. code::
-    print("Hello, World!")
+.. code:: print("Hello, World!")
 
 
 Blokowy fragment kodu:
