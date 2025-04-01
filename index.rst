@@ -49,8 +49,7 @@ Lokalny odnośnik w ReadTheDocs:
 :ref:`naglowki_sekcja` - Link do sekcji "Nagłówki tekstowe"
 
 
-Zewnętrzny odnośnik:
-`google <https://www.google.com>`_
+`Zewnętrzny odnośnik: <https://www.youtube.com/watch?v=dQw4w9WgXcQ>`_
 
 Listy (numerowana, wypunktowana, definicji)
 =========================================
@@ -82,7 +81,7 @@ Termin 2
 Obraz (z alternatywnym tekstem oraz podpisem)
 ==========================================
 
-.. image:: https://via.placeholder.com/600x400.png?text=Example+Image
+.. image:: ./Assets/photo.png
    :alt: Przykładowy obraz
    :figclass: align-center
    :caption: To jest przykładowy obraz.
