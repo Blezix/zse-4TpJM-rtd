@@ -82,6 +82,7 @@ Obraz (z alternatywnym tekstem oraz podpisem)
 ==========================================
 
 .. image:: ./Assets/photo.png
+
    :alt: Przykładowy obraz
    :figclass: align-center
    :caption: To jest przykładowy obraz.
