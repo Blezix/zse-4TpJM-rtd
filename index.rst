@@ -17,11 +17,9 @@ Akapit informacyjny (Note, Tip)
 ==============================
 
 .. note::
-
     To jest akapit informacyjny w formie noty.
 
 .. tip::
-
     To jest akapit informacyjny w formie wskazówki.
 
 Fragment kodu (liniowy, blokowy)
@@ -29,7 +27,8 @@ Fragment kodu (liniowy, blokowy)
 
 Liniowy fragment kodu:
 
-``code``print("Hello, World!")
+.. code::
+    print("Hello, World!")
 
 
 Blokowy fragment kodu:
@@ -44,11 +43,11 @@ Odnośnik (lokalny RtD, zewnętrzny-inny serwis)
 
 Lokalny odnośnik w ReadTheDocs:
 
-`Link do sekcji dokumentacji <#naglowek-1-poziomu>`
+:ref:`a_section_target` `Link do sekcji dokumentacji`
 
 Zewnętrzny odnośnik:
 
-`Link do zewnętrznej strony <https://example.com>`_
+:literalref:`https://www.youtube.com/watch?v=dQw4w9WgXcQ` `Link do zewnętrznej strony`_
 
 Listy (numerowana, wypunktowana, definicji)
 =========================================
