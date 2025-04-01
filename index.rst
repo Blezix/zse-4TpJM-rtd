@@ -45,10 +45,12 @@ Lokalny odnośnik w ReadTheDocs:
 
 Zewnętrzny odnośnik:
 
-:literalref:`https://www.youtube.com/watch?v=dQw4w9WgXcQ` `Link do zewnętrznej strony`_
-
+`website`_
 Listy (numerowana, wypunktowana, definicji)
 =========================================
+.. LINKS
+.. website: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
 
 Numerowana lista:
 1. Pierwszy element
@@ -56,9 +58,9 @@ Numerowana lista:
 3. Trzeci element
 
 Wypunktowana lista:
-- Pierwszy element
-- Drugi element
-- Trzeci element
+- Item 1
+- Item 2
+- Item 3
 
 Lista definicji:
 
