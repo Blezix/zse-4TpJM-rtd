@@ -55,6 +55,7 @@ Listy (numerowana, wypunktowana, definicji)
 =========================================
 
 Numerowana lista:
+
 1. Pierwszy element
 
 2. Drugi element
@@ -62,6 +63,7 @@ Numerowana lista:
 3. Trzeci element
 
 Wypunktowana lista:
+
 - Item 1
 
 - Item 2
