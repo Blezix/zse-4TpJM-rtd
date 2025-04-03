@@ -83,7 +83,7 @@ Termin 2
 Obraz (z alternatywnym tekstem oraz podpisem)
 ==========================================
 
-.. image:: ./Assets/photo.png
+.. figure:: ./Assets/photo.png
 
    :alt: Przykładowy obraz
    :figclass: align-center
